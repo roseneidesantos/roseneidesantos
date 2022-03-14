@@ -16,5 +16,5 @@
  </div>
  <br/><br/>
  
- Apaixonada por tecnologia e conhecimento ❤️
+ Apaixonada por tecnologia, conhecimento e café ❤️
  
