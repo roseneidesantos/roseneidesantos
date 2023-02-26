@@ -2,7 +2,7 @@
 
 [![Linkedi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roseneidesantos)
 
-![Roseneide GitHub stats](https://github-readme-stats.vercel.app/api?username=roseneidesantos&theme=midnight-purple&show_icons=true)
+![Roseneide GitHub stats](https://github-readme-stats.vercel.app/api?username=roseneidesantos&theme=midnight-purple&show_icons=true&locale=pt-br)
 
 ## Tecnologias que eu utilizo:
 <div style="display:inline_block"><br/>
